@@ -1,0 +1,5 @@
+Replace AT_CHECK with TORCH_CHECK and THCState_getCurrentStream(state) with at::cuda::getCurrentCUDAStream()
+in all of .cpp in 
+EPNet/pointnet2_lib/pointnet2/src
+EPNet/lib/utils/iou3d/src
+EPNet/lib/utils/roipool3d/src
