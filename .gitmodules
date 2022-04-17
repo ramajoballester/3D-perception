@@ -4,3 +4,6 @@
 [submodule "BtcDet"]
 	path = BtcDet
 	url = https://github.com/Xharlie/BtcDet.git
+[submodule "SFA3D"]
+	path = SFA3D
+	url = git@github.com:ramajoballester/SFA3D.git
