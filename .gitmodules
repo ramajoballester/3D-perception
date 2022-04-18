@@ -7,3 +7,4 @@
 [submodule "SFA3D"]
 	path = SFA3D
 	url = git@github.com:ramajoballester/SFA3D.git
+	branch = ros
